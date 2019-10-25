@@ -1,7 +1,7 @@
 {
-  "name": "anak-musik-frontend",
+  "name": "nextjs-test",
   "version": "1.0.0",
-  "description": "Asik.id adalah tempat untuk jual alat musik dan perlengkapan audio bekas. Jual alat musik bekasmu dan temukan instrumen impianmu dengan harga yang lebih terjangkau.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -11,28 +11,8 @@
     "build": "next build",
     "start": "next start"
   },
-  "keywords": [
-    "musik",
-    "alat musik",
-    "alat-musik",
-    "listing",
-    "marketplace",
-    "gitar",
-    "drum",
-    "tiup",
-    "keyboard",
-    "gitar",
-    "biola",
-    "tradisional",
-    "pro audio",
-    "bekas",
-    "preloved",
-    "pre-loved",
-    "second",
-    "secondhand",
-    "second hand"
-  ],
-  "author": "Asik Developer Team",
+  "keywords": [],
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
