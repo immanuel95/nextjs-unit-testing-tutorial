@@ -1,0 +1,56 @@
+{
+  "name": "anak-musik-frontend",
+  "version": "1.0.0",
+  "description": "Asik.id adalah tempat untuk jual alat musik dan perlengkapan audio bekas. Jual alat musik bekasmu dan temukan instrumen impianmu dengan harga yang lebih terjangkau.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "musik",
+    "alat musik",
+    "alat-musik",
+    "listing",
+    "marketplace",
+    "gitar",
+    "drum",
+    "tiup",
+    "keyboard",
+    "gitar",
+    "biola",
+    "tradisional",
+    "pro audio",
+    "bekas",
+    "preloved",
+    "pre-loved",
+    "second",
+    "secondhand",
+    "second hand"
+  ],
+  "author": "Asik Developer Team",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "nanoid": "^2.1.6",
+    "next": "^9.1.1",
+    "node-sass": "^4.12.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "babel-jest": "^24.9.0",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "jest": "^24.9.0",
+    "jest-transform-css": "^2.0.0",
+    "react-addons-test-utils": "^15.6.2",
+    "react-test-renderer": "^16.11.0"
+  }
+}
